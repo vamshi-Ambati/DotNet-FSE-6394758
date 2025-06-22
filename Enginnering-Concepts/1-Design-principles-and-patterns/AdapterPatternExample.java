@@ -26,7 +26,6 @@ class PayPalAdapter implements PaymentProcessor {
         payPalGateway.sendPayment(amount);
     }
 }
-
 class StripeAdapter implements PaymentProcessor {
     private final StripeGateway stripeGateway;
 
