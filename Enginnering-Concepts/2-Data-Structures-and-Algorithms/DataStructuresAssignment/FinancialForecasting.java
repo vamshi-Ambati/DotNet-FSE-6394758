@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import myPackage.FutureForcast;
 
-public class Problem7 {
+public class FinancialForecasting {
     public static void main(String[] args) {
         FutureForcast futureForcast = new FutureForcast();
         try (Scanner scanner = new Scanner(System.in)) {

@@ -2,7 +2,7 @@ import java.util.Scanner;
 import myPackage.EcommercePlatformSearchSystem;
 import myPackage.Product;
 
-public class Problem2 {
+public class EcommercePlatformSearchFunction {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Enter number of products: ");
