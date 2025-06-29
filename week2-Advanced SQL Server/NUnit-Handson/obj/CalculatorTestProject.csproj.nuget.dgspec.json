@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vamshiambati/Downloads/Documents/Cognizant/CalculatorTestProject/CalculatorTestProject.csproj": {}
+    "/Users/vamshiambati/Downloads/Documents/Cognizant/DotNet-FSE/week2-Advanced SQL Server/NUnit-Handson/CalculatorTestProject.csproj": {}
   },
   "projects": {
-    "/Users/vamshiambati/Downloads/Documents/Cognizant/CalculatorTestProject/CalculatorTestProject.csproj": {
+    "/Users/vamshiambati/Downloads/Documents/Cognizant/DotNet-FSE/week2-Advanced SQL Server/NUnit-Handson/CalculatorTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vamshiambati/Downloads/Documents/Cognizant/CalculatorTestProject/CalculatorTestProject.csproj",
+        "projectUniqueName": "/Users/vamshiambati/Downloads/Documents/Cognizant/DotNet-FSE/week2-Advanced SQL Server/NUnit-Handson/CalculatorTestProject.csproj",
         "projectName": "CalculatorTestProject",
-        "projectPath": "/Users/vamshiambati/Downloads/Documents/Cognizant/CalculatorTestProject/CalculatorTestProject.csproj",
+        "projectPath": "/Users/vamshiambati/Downloads/Documents/Cognizant/DotNet-FSE/week2-Advanced SQL Server/NUnit-Handson/CalculatorTestProject.csproj",
         "packagesPath": "/Users/vamshiambati/.nuget/packages/",
-        "outputPath": "/Users/vamshiambati/Downloads/Documents/Cognizant/CalculatorTestProject/obj/",
+        "outputPath": "/Users/vamshiambati/Downloads/Documents/Cognizant/DotNet-FSE/week2-Advanced SQL Server/NUnit-Handson/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vamshiambati/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F03J3e6H5+c=",
+  "dgSpecHash": "A9hxhgGi5zs=",
   "success": true,
-  "projectFilePath": "/Users/vamshiambati/Downloads/Documents/Cognizant/CalculatorTestProject/CalculatorTestProject.csproj",
+  "projectFilePath": "/Users/vamshiambati/Downloads/Documents/Cognizant/DotNet-FSE/week2-Advanced SQL Server/NUnit-Handson/CalculatorTestProject.csproj",
   "expectedPackageFiles": [
     "/Users/vamshiambati/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/Users/vamshiambati/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",
