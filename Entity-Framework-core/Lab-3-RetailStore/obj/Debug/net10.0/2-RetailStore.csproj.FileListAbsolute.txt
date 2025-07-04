@@ -1,0 +1,5 @@
+C:\Users\nithi\OneDrive\Documents\Cognizant\DotNet-FSE-6394758\Entity-Framework-core\Lab-3-RetailStore\obj\Debug\net10.0\2-RetailStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithi\OneDrive\Documents\Cognizant\DotNet-FSE-6394758\Entity-Framework-core\Lab-3-RetailStore\obj\Debug\net10.0\2-RetailStore.AssemblyInfoInputs.cache
+C:\Users\nithi\OneDrive\Documents\Cognizant\DotNet-FSE-6394758\Entity-Framework-core\Lab-3-RetailStore\obj\Debug\net10.0\2-RetailStore.AssemblyInfo.cs
+C:\Users\nithi\OneDrive\Documents\Cognizant\DotNet-FSE-6394758\Entity-Framework-core\Lab-3-RetailStore\obj\Debug\net10.0\2-RetailStore.csproj.CoreCompileInputs.cache
+C:\Users\nithi\OneDrive\Documents\Cognizant\DotNet-FSE-6394758\Entity-Framework-core\Lab-3-RetailStore\obj\Debug\net10.0\2-RetailStore.sourcelink.json
