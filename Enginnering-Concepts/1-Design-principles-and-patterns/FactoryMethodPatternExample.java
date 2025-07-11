@@ -2,7 +2,7 @@
 interface Document {
     void open();
 }
-
+//
 class WordDocument implements Document {
     @Override
     public void open() {
