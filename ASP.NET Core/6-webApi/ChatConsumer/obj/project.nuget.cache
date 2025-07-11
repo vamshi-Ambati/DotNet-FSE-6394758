@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rhMgJXxn2N0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nithi\\OneDrive\\Documents\\Cognizant\\DotNet-FSE-6394758\\ASP.NET Core\\6-webApi\\ChatConsumer\\ChatConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nithi\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

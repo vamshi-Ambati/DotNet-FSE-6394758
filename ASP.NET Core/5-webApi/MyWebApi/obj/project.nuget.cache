@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVDqVllwTIA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nithi\\OneDrive\\Documents\\Cognizant\\DotNet-FSE-6394758\\ASP.NET Core\\5-webApi\\MyWebApi\\MyWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.7\\microsoft.aspnetcore.authentication.jwtbearer.9.0.7.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.3.0\\microsoft.aspnetcore.cors.2.3.0.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.aspnetcore.mvc\\2.3.0\\microsoft.aspnetcore.mvc.2.3.0.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\2.3.0\\microsoft.aspnetcore.mvc.razor.extensions.2.3.0.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-preview.5.25277.114\\microsoft.aspnetcore.openapi.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.3.0\\microsoft.aspnetcore.razor.design.2.3.0.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\2.3.0\\microsoft.aspnetcore.razor.language.2.3.0.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.codeanalysis.common\\2.8.2\\microsoft.codeanalysis.common.2.8.2.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.codeanalysis.csharp\\2.8.2\\microsoft.codeanalysis.csharp.2.8.2.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.codeanalysis.razor\\2.3.0\\microsoft.codeanalysis.razor.2.3.0.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.12.1\\microsoft.identitymodel.abstractions.8.12.1.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.12.1\\microsoft.identitymodel.jsonwebtokens.8.12.1.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.identitymodel.logging\\8.12.1\\microsoft.identitymodel.logging.8.12.1.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.1\\microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.1\\microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.12.1\\microsoft.identitymodel.tokens.8.12.1.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\microsoft.openapi\\2.0.0-preview.18\\microsoft.openapi.2.0.0-preview.18.nupkg.sha512",
+    "C:\\Users\\nithi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.12.1\\system.identitymodel.tokens.jwt.8.12.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.AspNetCore.Cors will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\nithi\\OneDrive\\Documents\\Cognizant\\DotNet-FSE-6394758\\ASP.NET Core\\5-webApi\\MyWebApi\\MyWebApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\nithi\\OneDrive\\Documents\\Cognizant\\DotNet-FSE-6394758\\ASP.NET Core\\5-webApi\\MyWebApi\\MyWebApi.csproj",
+      "libraryId": "Microsoft.AspNetCore.Cors",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.AspNetCore.Mvc will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\nithi\\OneDrive\\Documents\\Cognizant\\DotNet-FSE-6394758\\ASP.NET Core\\5-webApi\\MyWebApi\\MyWebApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\nithi\\OneDrive\\Documents\\Cognizant\\DotNet-FSE-6394758\\ASP.NET Core\\5-webApi\\MyWebApi\\MyWebApi.csproj",
+      "libraryId": "Microsoft.AspNetCore.Mvc",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
