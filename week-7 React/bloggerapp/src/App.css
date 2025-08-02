@@ -1,0 +1,55 @@
+.App {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.tabs button {
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: none;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.tabs button.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.content {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #4CAF50;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #333;
+}
+
+p {
+    margin: 5px 0 15px 0;
+}
+
+strong {
+    font-weight: bold;
+}
